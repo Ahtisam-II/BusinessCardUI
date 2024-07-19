@@ -2,10 +2,10 @@ This app displays a business card <br>
 uploaded using git <br> 
 some useful git commads <br> 
 
-Basic Git Commands
-This document covers basic Git commands for cloning a repository from remote to local, 
+
+Some basic Git commands for cloning a repository from remote to local, 
 committing changes, and initializing a repository locally before uploading to a remote repository.
-Cloning from Remote to Local and Committing Changes
+Cloning from Remote to Local and Committing Changes<br>
 Clone a repository:
 ```PowerShell
 git clone <repository-url>
